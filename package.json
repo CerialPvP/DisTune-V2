@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EmirhanTr3/discord-bot-template-js.git"
+    "url": "git+https://github.com/CerialPvP/DisTune-V2.git"
   },
   "author": "github.com/EmirhanTr3",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EmirhanTr3/discord-bot-template-js/issues"
+    "url": "https://github.com/CerialPvP/DisTune-V2/issues"
   },
-  "homepage": "https://github.com/EmirhanTr3/discord-bot-template-js#readme",
+  "homepage": "https://github.com/CerialPvP/DisTune-V2#readme",
   "dependencies": {
     "discord.js": "^14.7.1",
     "fs": "^0.0.1-security"
